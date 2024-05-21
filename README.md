@@ -19,7 +19,7 @@ The last layer has con2d+ReLU with filter size = 1 ( because the output depth sh
 The optimizer used for the model is Adam with lr = 0.001 and the loss function is MSE.
 Epochs for all the σ = 1,3,6,10 are kept at 100 for uniformity in the result.
 
-# Quantitative analysis:
+# Quantitative analysis
 The different metrics used for quantitative analysis: 
 Mean Square Error
 Peak Signal to Noise Ratio
